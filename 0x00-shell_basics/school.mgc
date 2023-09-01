@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -r "SCHOOL"*
+grep -ri "SCHOOL" School data
