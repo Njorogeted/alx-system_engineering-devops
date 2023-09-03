@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type d -exec chmod 111
+chmod o+x,g+x,u+x -type d .
