@@ -1,2 +1,2 @@
 #!/bin/baash
-tr -d -i "c"
+find -name 'c' -i -delete
